@@ -47,4 +47,4 @@ JewelryKo/
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/jewelryko-management-system.git](https://github.com/your-username/jewelryko-management-system.git)
+   git clone [https://github.com/your-username/JewelryKo.git](https://github.com/your-username/JewelryKo.git)
