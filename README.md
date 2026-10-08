@@ -26,7 +26,6 @@ JewelryKo is a Java Swing desktop management system designed to digitize operati
 
 ## Repository Structure
 
-```text
 JewelryKo/
 ├── src/                        # Java source code files
 │   ├── MainFrame.java          # Main program entry point
@@ -44,17 +43,6 @@ JewelryKo/
 ├── lib/                        # External libraries (SQLite JDBC Driver)
 ├── Image/                      # Application image assets and featured photos
 └── README.md                   # System documentation
-```[cite: 2, 12]
-
----
-
-## Getting Started
-
-### Prerequisites
-
-* Java Development Kit (JDK) 8 or higher
-* SQLite JDBC Driver (`.jar`) included in your build path
-
 ### Running the Application
 
 1. **Clone the Repository:**
