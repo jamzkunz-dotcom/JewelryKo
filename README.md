@@ -7,10 +7,10 @@ JewelryKo is a Java Swing desktop management system designed to digitize operati
 ## Core Features
 
 * **Admin Authentication & Role Security:** Protected access via Admin ID and password, with additional management password validation for administrative actions[cite: 2, 8].
-* **Inventory Management:** View, search, filter (by type, karat, size, price, and weight), add, inspect, and sell fine jewelry items[cite: 4, 5].
-* **Sales & Transaction Recording:** Track transactions, calculate balance remaining, and manage payment statuses (Unpaid, Partial, Paid, Cancelled)[cite: 7, 8].
-* **Order Status Tracking:** Monitor unavailable, reserved, processing, shipped, or delivered orders with priority handling[cite: 9].
-* **User Management:** Panel to manage both Admin credentials/salaries and Client purchase records[cite: 10].
+* **Inventory Management:** View, search, filter (by type, karat, size, price, and weight), add, inspect, and sell fine jewelry items.
+* **Sales & Transaction Recording:** Track transactions, calculate balance remaining, and manage payment statuses (Unpaid, Partial, Paid, Cancelled).
+* **Order Status Tracking:** Monitor unavailable, reserved, processing, shipped, or delivered orders with priority handling.
+* **User Management:** Panel to manage both Admin credentials/salaries and Client purchase records.
 * **Dynamic Price Management:** Live pricing engine calculates individual jewelry prices based on updated market gold rates ($Price = GoldRate \times Weight$).
 
 ---
@@ -18,9 +18,9 @@ JewelryKo is a Java Swing desktop management system designed to digitize operati
 ## Tech Stack
 
 * **Language:** Java
-* **GUI Framework:** Java Swing[cite: 12]
+* **GUI Framework:** Java Swing
 * **Database:** SQLite (via SQLite JDBC Driver)
-* **Architecture:** Component-based UI (`MainFrame`, `LoginFrame`, modular View panels)[cite: 12]
+* **Architecture:** Component-based UI (`MainFrame`, `LoginFrame`, modular View panels)
 
 ---
 
